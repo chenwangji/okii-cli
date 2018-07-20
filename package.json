@@ -1,9 +1,9 @@
 {
-  "name": "bixia-cli",
+  "name": "bixia-vue-cli",
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "okii": "index.js"
+    "bixia-vue": "index.js"
   },
   "main": "index.js",
   "scripts": {
